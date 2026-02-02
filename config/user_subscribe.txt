@@ -1,13 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-http://www.饭太硬.com/tv
-http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
-http://tvbox.xn--4kq62z5rby2qupq9ub.top/
-http://ok321.top/tv
-http://cdn.qiaoji8.com/tvbox.json
-https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
-
-
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://m.im5k.fun/m.m3u
 
 
 [WHITELIST]
