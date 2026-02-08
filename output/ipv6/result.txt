@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-08 01:40:51,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+2026-02-09 01:37:18,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🇨🇳山东频道,#genre#
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -16,6 +16,7 @@
 CCTV-1,https://migu.188766.xyz/?migutoken=f26813fac5f75091f2837c77184d3f97&id=CCTV1&type=yy
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-1,https://migu.188766.xyz/?migutoken=2249a6da5da69bd3114d4ffafe61ab5e&id=CCTV1&type=yy
+CCTV-1,https://t.freetv.fun/live/cctv1-1.m3u8
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
 CCTV-2,https://migu.188766.xyz/?migutoken=a96e7460693a3e24f61da74dd9b62a39&id=CCTV2&type=yy
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
