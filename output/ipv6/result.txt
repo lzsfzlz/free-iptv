@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-26 02:12:49,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+2026-03-27 02:14:33,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🇨🇳山东频道,#genre#
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -516,6 +516,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-1.php
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
+黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-10.php
 内蒙古卫视,https://migu.188766.xyz/?migutoken=f63114966eaeaa848f480651094817f1&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
 内蒙古卫视,https://migu.188766.xyz/?migutoken=239b5e31125b9b3389d93d92a20c0edd&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
@@ -543,6 +544,7 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
 科幻电影,https://yylunbo.ottiptv.cc/yy/1354930209
 科幻电影,https://yylunbo.ottiptv.cc/yy/1355065896
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
