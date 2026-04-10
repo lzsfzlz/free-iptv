@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-10 02:13:36,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+2026-04-11 02:01:09,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🇨🇳山东频道,#genre#
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -368,6 +368,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-9.m3u8
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-15.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi.m3u8
 吉林卫视,https://migu.188766.xyz/?migutoken=282da9faf7520b0e668905d2576021bc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 吉林卫视,https://migu.188766.xyz/?migutoken=583452665b40483fbb88b9eb28753038&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 吉林卫视,https://migu.188766.xyz/?migutoken=68493ef383897312418a4ddc394bb61b&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
