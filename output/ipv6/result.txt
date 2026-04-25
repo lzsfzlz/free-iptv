@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-25 02:08:36,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+2026-04-26 01:51:29,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🇨🇳山东频道,#genre#
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -559,6 +559,7 @@ CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.php
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-6.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.m3u8
 科幻电影,https://yylunbo.ottiptv.cc/yy/1354930209
 科幻电影,https://yylunbo.ottiptv.cc/yy/1355065896
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
