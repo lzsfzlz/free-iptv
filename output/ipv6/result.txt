@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-01 02:28:52,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+2026-05-02 02:15:37,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🇨🇳山东频道,#genre#
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -250,6 +250,7 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260301000214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260301000214&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=640e137eb2b710bcf61605de0bb8a468&sv=10004&ct=android
 CETV-4,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260302000222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260302000222&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=603f8f971ad690febceeb36892aca8b6&sv=10004&ct=android
 CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260303000215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260303000215&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a378997eb745fd10fe44d9c912db01a3&sv=10004&ct=android
+风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 
 📡卫视频道,#genre#
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
@@ -315,8 +316,11 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-5.m3u8
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+贵州卫视,https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=4d81e69f95546b140ceaf8f07db833bf&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
 海南卫视,https://migu.188766.xyz/?migutoken=7777cf0daeb52fc08153d96da5fef405&id=hn_hnws&type=sz
 海南卫视,https://migu.188766.xyz/?migutoken=bfc070a1d6ddd0bf08d2f63b65f12f3f&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
@@ -471,6 +475,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-14.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-9.php
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+深圳卫视,https://gd202.tv1288.xyz/tsfile/live/1042_1.m3u8
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-10.php
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
@@ -798,6 +803,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-14.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-9.php
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+深圳卫视,https://gd202.tv1288.xyz/tsfile/live/1042_1.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-9.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-12.m3u8
