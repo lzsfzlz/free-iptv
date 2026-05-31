@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/lzsfzlz/free-iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://10.1.0.194:5180/logo/山东卫视.png" group-title="🕘️更新时间",2026-05-31 02:26:46
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://10.1.0.194:5180/logo/山东卫视.png" group-title="🕘️更新时间",2026-06-01 02:22:52
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://10.1.0.194:5180/logo/山东卫视.png" group-title="🇨🇳山东频道",山东卫视
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
