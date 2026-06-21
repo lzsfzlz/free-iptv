@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-21 02:42:43,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+2026-06-22 02:52:07,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🇨🇳山东频道,#genre#
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -1210,6 +1210,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 环球旅游,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260303000217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=218.28.233.106&SecurityKey=20260303000217&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6a4baa60aa2f5517353341f8a855a61a&sv=10004&ct=android
 环球旅游,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260616040221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=171.8.79.254&SecurityKey=20260616040221&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=81c8c9430cf9505df4f5565518fc2517&sv=10004&ct=android
 环球旅游,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260619000240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=171.8.79.254&SecurityKey=20260619000240&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c87e6585e36342004d2029e7266ecd37&sv=10004&ct=android
+环球旅游,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260622000220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=171.8.79.254&SecurityKey=20260622000220&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=96386d27863d2a858ae20c013c77ab9c&sv=10004&ct=android
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
