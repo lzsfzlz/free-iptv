@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-24 11:28:21,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+2026-11-25 09:34:33,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🇨🇳山东频道,#genre#
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -663,6 +663,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816
 天龙八部,https://live.ottiptv.cc/huya/20985816
 天龙八部,https://live.ottiptv.cc/yy/1351814644
+天龙八部,https://live.metshop.top/yy/1351814644
 奇幻冒险电影凯斯宾王子的魔法征途,https://yylunbo.ottiptv.cc/yy/1354926671
 妙手仁心,https://live.metshop.top/huya/29465853
 妙手仁心,http://cdn.jdshipin.com:8880/huya.php?id=29465853
@@ -674,6 +675,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 寻秦记,https://live.metshop.top/huya/29465848
 寻秦记,http://cdn.jdshipin.com:8880/huya.php?id=29465848
 寻秦记,https://live.ottiptv.cc/huya/29465848
+寻秦记,https://live.metshop.top/huya/30080146
 封神榜,https://live.metshop.top/huya/29465849
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
 封神榜,https://live.ottiptv.cc/huya/29465849
@@ -698,6 +700,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 无心法师,http://cdn.jdshipin.com:8880/huya.php?id=30080233
 无心法师,https://live.ottiptv.cc/huya/30080233
 末日电影合集,https://live.ottiptv.cc/yy/1354889019
+末日电影合集,https://live.metshop.top/yy/1354889019
 末日系列外国电影合集,https://yylunbo.ottiptv.cc/yy/1354889019
 枪战电影,https://live.metshop.top/huya/21059579
 枪战电影,http://cdn.jdshipin.com:8880/huya.php?id=21059579
@@ -761,6 +764,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 神雕侠侣,https://live.ottiptv.cc/huya/11352964
 神雕侠侣,https://live.ottiptv.cc/huya/23865171
 神雕侠侣,http://live.ottiptv.cc/yy/1351762426
+神雕侠侣,http://live.metshop.top/yy/1351762426
 粟裕大将影视,https://yylunbo.ottiptv.cc/yy/1354926542
 精彩动作电影,https://yylunbo.ottiptv.cc/yy/1382736823
 精彩动作电影享不停,https://yylunbo.ottiptv.cc/yy/1382736809
@@ -793,6 +797,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 金枝欲孽,http://cdn.jdshipin.com:8880/huya.php?id=29465847
 金枝欲孽,https://live.ottiptv.cc/huya/29465847
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
+鹿鼎记,https://live.metshop.top/huya/23650774
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 🔢数字频道,#genre#
@@ -817,6 +822,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
 海绵宝宝,https://live.metshop.top/douyu/3949681
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
+灌篮高手,https://live.metshop.top/yy/1382735626
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
@@ -826,6 +832,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 精灵宝可梦,http://cdn.jdshipin.com:8880/huya.php?id=23749096
 精灵宝可梦,https://live.ottiptv.cc/huya/23749096
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
+蜡笔小新,https://live.metshop.top/bilibili/30837590
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
@@ -1400,6 +1407,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 笑看风云,http://cdn.jdshipin.com:8880/huya.php?id=29465858
 笑看风云,https://live.ottiptv.cc/huya/29465858
 谈判专家,https://live.ottiptv.cc/yy/1382735560
+谈判专家,https://live.metshop.top/yy/1382735560
 返乡青年撞破村中隐秘村里有情况,https://yylunbo.ottiptv.cc/yy/1382749940
 这部剧你居然没看过,https://yylunbo.ottiptv.cc/yy/1354932355
 进来陪你看电视,https://yylunbo.ottiptv.cc/yy/1353518742
